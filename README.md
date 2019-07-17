@@ -5,14 +5,9 @@ Virtual Private Server (VPS) <br>
 
 ### Dont have Virtual Private Server yet?
 Try [Digital Ocean](https://m.do.co/c/7e70da047d1d) 100$ Free Credit <br>
-[GoDaddy](https://godaddy.com/) <br>
-[Microsoft Azure](http://azure.microsoft.com/en-us/) <br>
-[Linode](https://www.linode.com/) <br>
 [Vultr](https://my.vultr.com/) <br>
-[Amazon Web Services](https://aws.amazon.com/) <br>
-[BlueHost](https://my.vultr.com/) <br>
-[ChunkHost](https://chunkhost.com/) <br>
-[Elastic Powered by: GoDaddy](https://www.elastichosts.com/) <br>
+[UpCloud](https://upcloud.com/) <br>
+[CloudSigma](https://www.cloudsigma.com/) <br>
 
 ### Operating System
   * Debian 6 32x 64x (Stable) <br>
